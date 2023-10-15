@@ -1,6 +1,10 @@
   <h1 align="center">DSA Notes with Code</h1>
   <h6 align="center">Beginning to Advance</h6>
 
+<p align="center">
+<a href="https://github.com/dipayansarkar47/DSA/blob/main/DSA%20Notes.pdf"><strong>Download ⬇️</strong></a>
+</p>
+
 ![Screenshot_20231015-210220](https://github.com/dipayansarkar47/DSA/assets/77672753/41089063-b265-4ecf-9b18-cfb9c5960765)
 
 
